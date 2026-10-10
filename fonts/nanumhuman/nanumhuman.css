@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'nanumhuman';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumhumanel.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'nanumhuman';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumhumanlight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'nanumhuman';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumhumanregular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'nanumhuman';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumhumanbold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'nanumhuman';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumhumaneb.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'nanumhuman';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumhumanheavy.woff') format('woff');
+}
