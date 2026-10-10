@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'wantedsans-extra';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wantedsans-extrablack.woff2') format('woff2');
+}

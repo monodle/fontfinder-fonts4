@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'nanumsquare';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquarel.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquare';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquarer.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquare';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquare';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareeb.woff2') format('woff2');
+}

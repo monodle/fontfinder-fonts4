@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'the-jamsil-5';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./the-jamsil-otf-5-bold.woff2') format('woff2');
+}

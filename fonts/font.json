@@ -1,0 +1,506 @@
+{
+  "nextRepo": null,
+  "fonts": [
+    {
+      "id": "nanumfont-myungjoeco",
+      "name": "나눔명조 에코",
+      "family": "nanummyeongjoeco",
+      "category": "serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700,
+        800
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_myungjoeco/nanumfont_myungjoeco.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "nanumfont-otf-myungjo",
+      "name": "나눔명조",
+      "family": "nanummyeongjo",
+      "category": "serif",
+      "version": "3.011",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700,
+        800
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_otf_myungjo/nanumfont_otf_myungjo.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "nanumfont-square",
+      "name": "나눔스퀘어",
+      "family": "nanumsquare",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "NAVER Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        800
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_square/nanumsquare.css",
+      "homepage": "https://www.navercorp.com",
+      "description": "NAVER Corporation"
+    },
+    {
+      "id": "nanumfont-square-round",
+      "name": "나눔스퀘어라운드",
+      "family": "nanumsquareround",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "NAVER Coporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700,
+        800
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_square_round/nanumfont_square_round.css",
+      "homepage": "http://www.navercorp.com",
+      "description": "NAVER Corporation"
+    },
+    {
+      "id": "nanumhuman",
+      "name": "Nanumhuman",
+      "family": "nanumhuman",
+      "category": "sans-serif",
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "author": "알 수 없음",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700,
+        800,
+        900
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumhuman/nanumhuman.css"
+    },
+    {
+      "id": "nanummyeongjo-yethangul",
+      "name": "나눔명조 옛한글",
+      "family": "nanummyeongjo-yethangul",
+      "category": "serif",
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanummyeongjo-yethangul/nanummyeongjo-yethangul.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "Copyright (c) 2014 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
+    },
+    {
+      "id": "nanumpen",
+      "name": "나눔손글씨 펜",
+      "family": "nanumpen",
+      "category": "handwriting",
+      "version": "1.100",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumpen/nanumpen.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "nanumsquareneo",
+      "name": "나눔스퀘어 네오",
+      "family": "nanumsquareneo",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "Sandoll Inc.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700,
+        800,
+        900
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumsquareneo/nanumsquareneo.css",
+      "homepage": "http://www.navercorp.com",
+      "description": "Copyright � 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc."
+    },
+    {
+      "id": "paperozi",
+      "name": "페이퍼로지",
+      "family": "paperlogy",
+      "category": "sans-serif",
+      "version": "1.001",
+      "type": "self-hosted",
+      "author": "피티앤",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/paperozi/paperozi.css",
+      "homepage": "https://www.designptn.com",
+      "description": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
+    },
+    {
+      "id": "pretendard",
+      "name": "Pretendard",
+      "family": "pretendard",
+      "category": "sans-serif",
+      "version": "1.309",
+      "type": "self-hosted",
+      "author": "길형진",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/pretendard/pretendard.css",
+      "homepage": "https://orioncactus.com",
+      "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "id": "riasans",
+      "name": "리아체",
+      "family": "riasans",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "ttseoul.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700,
+        800
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/riasans/riasans.css",
+      "homepage": "https://www.lotteriafont.com",
+      "description": "Copyright © 2025 Lotte GRS co.,ltd all right reserved."
+    },
+    {
+      "id": "rokaf-sans",
+      "name": "바른공군체",
+      "family": "rokaf-sans",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "TOGETHERGROUP",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        500,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/rokaf/rokaf-sans.css",
+      "homepage": "https://togethergroup.co.kr",
+      "description": "Republic of Korea Air Force"
+    },
+    {
+      "id": "rokaf-slab-serif",
+      "name": "강한공군체",
+      "family": "rokaf-slab-serif",
+      "category": "serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "TOGETHERGROUP",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        500,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/rokaf/rokaf-slab-serif.css",
+      "homepage": "https://togethergroup.co.kr",
+      "description": "Republic of Korea Air Force"
+    },
+    {
+      "id": "snowfrost001",
+      "name": "SF함박눈",
+      "family": "sf",
+      "category": "sans-serif",
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "author": "눈서리",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/snowfrost001/snowfrost001.css",
+      "description": "Copyright (c) 2019, snowfrost"
+    },
+    {
+      "id": "the-jamsil-1",
+      "name": "더잠실",
+      "family": "the-jamsil-1",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "Lottemart",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/the_jamsil/the-jamsil-1.css",
+      "homepage": "http://company.lottemart.com",
+      "description": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+    },
+    {
+      "id": "the-jamsil-2",
+      "name": "더잠실",
+      "family": "the-jamsil-2",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "Lottemart",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/the_jamsil/the-jamsil-2.css",
+      "homepage": "http://company.lottemart.com",
+      "description": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+    },
+    {
+      "id": "the-jamsil-3",
+      "name": "더잠실",
+      "family": "the-jamsil-3",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "Lottemart",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/the_jamsil/the-jamsil-3.css",
+      "homepage": "http://company.lottemart.com",
+      "description": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+    },
+    {
+      "id": "the-jamsil-4",
+      "name": "더잠실",
+      "family": "the-jamsil-4",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "Lottemart",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        500
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/the_jamsil/the-jamsil-4.css",
+      "homepage": "http://company.lottemart.com",
+      "description": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+    },
+    {
+      "id": "the-jamsil-5",
+      "name": "더잠실",
+      "family": "the-jamsil-5",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "Lottemart",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/the_jamsil/the-jamsil-5.css",
+      "homepage": "http://company.lottemart.com",
+      "description": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+    },
+    {
+      "id": "the-jamsil-6",
+      "name": "더잠실",
+      "family": "the-jamsil-6",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "Lottemart",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/the_jamsil/the-jamsil-6.css",
+      "homepage": "http://company.lottemart.com",
+      "description": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+    },
+    {
+      "id": "wantedsans",
+      "name": "Wanted Sans",
+      "family": "wantedsans",
+      "category": "sans-serif",
+      "version": "1.003",
+      "type": "self-hosted",
+      "author": "(주)원티드랩",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/wantedsans/wantedsans.css",
+      "homepage": "https://wantedlab.com",
+      "description": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
+    },
+    {
+      "id": "wantedsans-extra",
+      "name": "Wanted Sans",
+      "family": "wantedsans-extra",
+      "category": "sans-serif",
+      "version": "1.003",
+      "type": "self-hosted",
+      "author": "(주)원티드랩",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        900
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/wantedsans/wantedsans-extra.css",
+      "homepage": "https://wantedlab.com",
+      "description": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
+    }
+  ]
+}

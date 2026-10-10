@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'rokaf-sans';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./rokaf-sans-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'rokaf-sans';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./rokaf-sans-bold.woff2') format('woff2');
+}

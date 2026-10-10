@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-1thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-2extralight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-3light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-4regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-5medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-6semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-7bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-8extrabold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'paperlogy';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('./paperlogy-9black.woff2') format('woff2');
+}

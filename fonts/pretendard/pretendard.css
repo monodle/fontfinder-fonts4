@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-extralight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-extrabold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'pretendard';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('./pretendard-black.woff2') format('woff2');
+}
