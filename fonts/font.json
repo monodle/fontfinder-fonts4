@@ -22,22 +22,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/nanumfont_myungjoeco/nanumfont_myungjoeco.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.nhncorp.com",
       "metadata": {
@@ -182,22 +188,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/nanumfont_otf_myungjo/nanumfont_otf_myungjo.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.nhncorp.com",
       "metadata": {
@@ -342,22 +354,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/nanumfont_square/nanumsquare.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -502,22 +520,26 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/nanumfont_square_round/nanumfont_square_round.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.navercorp.com",
       "metadata": {
@@ -663,22 +685,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/nanumhuman/nanumhuman.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -744,22 +772,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/nanummyeongjo-yethangul/nanummyeongjo-yethangul.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          5,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "http://www.nhncorp.com",
       "metadata": {
@@ -890,22 +924,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/nanumpen/nanumpen.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          3,
-          4,
-          6,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 4,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.nhncorp.com",
       "metadata": {
@@ -1013,7 +1053,7 @@
       "id": "nanumsquareneo",
       "family": "nanumsquareneo",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -1032,22 +1072,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/nanumsquareneo/nanumsquareneo.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          8,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.navercorp.com/",
       "metadata": {
@@ -1163,7 +1209,7 @@
       "id": "paperozi",
       "family": "paperlogy",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "ko",
@@ -1186,22 +1232,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/paperozi/paperozi.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://scripts.sil.org/OFL",
       "metadata": {
@@ -1337,7 +1389,7 @@
       "id": "pretendard",
       "family": "pretendard",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "ko",
@@ -1360,22 +1412,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/pretendard/pretendard.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          5,
-          3,
-          0,
-          0,
-          0,
-          2,
-          0,
-          4
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 2,
+          "midline": 0,
+          "xHeight": 4
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "https://orioncactus.com/",
       "metadata": {
@@ -1500,22 +1559,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/riasans/riasans.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          5,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://www.lotteriafont.com/",
       "metadata": {
@@ -1633,22 +1698,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/rokaf/rokaf-sans.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          8,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://togethergroup.co.kr",
       "metadata": {
@@ -1784,7 +1856,7 @@
       "id": "rokaf-slab-serif",
       "family": "rokaf-slab-serif",
       "categories": [
-        "serif"
+        "sans-serif"
       ],
       "languages": [
         "ko",
@@ -1800,22 +1872,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/rokaf/rokaf-slab-serif.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          8,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://togethergroup.co.kr",
       "metadata": {
@@ -1966,22 +2045,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/snowfrost001/snowfrost001.css",
       "os2": {
-        "usWeightClass": 800,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 768,
-        "panose": [
-          2,
-          0,
-          8,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 3,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 800,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -2061,22 +2147,26 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/the_jamsil/the-jamsil-1.css",
       "os2": {
-        "usWeightClass": 300,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          4,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 4,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
@@ -2207,22 +2297,26 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/the_jamsil/the-jamsil-2.css",
       "os2": {
-        "usWeightClass": 300,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
@@ -2353,22 +2447,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/the_jamsil/the-jamsil-3.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          5,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
@@ -2499,22 +2599,26 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/the_jamsil/the-jamsil-4.css",
       "os2": {
-        "usWeightClass": 500,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          6,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
@@ -2645,22 +2749,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/the_jamsil/the-jamsil-5.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          8,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
@@ -2791,22 +2901,26 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/the_jamsil/the-jamsil-6.css",
       "os2": {
-        "usWeightClass": 800,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          9,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 9,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 800,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
@@ -2942,22 +3056,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/wantedsans/wantedsans.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          5,
-          4,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "https://wantedlab.com",
       "metadata": {
@@ -3084,22 +3204,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/wantedsans/wantedsans-extra.css",
       "os2": {
-        "usWeightClass": 900,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          11,
-          4,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 11,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 900,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "https://wantedlab.com",
       "metadata": {
