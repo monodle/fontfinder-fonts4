@@ -2569,6 +2569,101 @@
       }
     },
     {
+      "id": "ssflowerroad1family",
+      "family": "ssflowerroad",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/ssflowerroad1family/ssflowerroad1family.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://sangsangfont.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2018 SangSangTokki. All rights reserved.",
+          "en": "Copyright © 2018 SangSangTokki. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "상상토끼 꽃길 OTF",
+          "en": "SangSangFlowerRoadOTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "SangSangFlowerRoadOTF:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "상상토끼 꽃길 OTF",
+          "en": "SangSangFlowerRoadOTF"
+        },
+        "Version": {
+          "ko": "Version 1.00;June 24, 2020;FontCreator 11.5.0.2430 64-bit",
+          "en": "Version 1.00;June 24, 2020;FontCreator 11.5.0.2430 64-bit"
+        },
+        "PostScript Name": {
+          "ko": "SangSangFlowerRoadOTF",
+          "en": "SangSangFlowerRoadOTF"
+        },
+        "Trademark": {
+          "en": "SangSangFlowerRoad is a registered trademark of SangSangTokki."
+        },
+        "Manufacturer": {
+          "en": "SangSangTokki"
+        },
+        "Designer": {
+          "ko": "신용;",
+          "en": "Yong Shin;"
+        },
+        "License Description": {
+          "en": "SangSangTokki"
+        },
+        "License Info URL": {
+          "en": "http://sangsangfont.com"
+        },
+        "Typographic Family": {
+          "ko": "상상토끼 꽃길 OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
       "id": "the-jamsil-1",
       "family": "the-jamsil-1",
       "categories": [
