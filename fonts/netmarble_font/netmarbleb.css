@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'netmarbleb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./netmarbleb.woff2') format('woff2');
+}

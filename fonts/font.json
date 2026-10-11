@@ -2,6 +2,276 @@
   "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts5@20261011/fonts",
   "fonts": [
     {
+      "id": "ddangfonts",
+      "family": "ddangfonts",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/ddangfonts/ddangfonts.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 tsfood Allrights reseved.",
+          "en": "Copyright (c) 2022 tsfood Allrights reseved."
+        },
+        "Font Family": {
+          "ko": "땅스부대찌개 OTF Bold",
+          "en": "Ttangsbudaejjigae OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Ttangsbudaejjigae OTF Bold"
+        },
+        "Full Font Name": {
+          "ko": "땅스부대찌개 OTF Bold",
+          "en": "Ttangsbudaejjigae OTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTTtangsbudaejjigaeB"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "땅스부대찌개 OTF",
+          "en": "Ttangsbudaejjigae OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "dnf-bitbit-v2",
+      "family": "dnfbitbitv2",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/dnf_bitbit_v2/dnf_bitbit_v2.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 4,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2005 NEOPLE inc. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "던파 비트비트체 v2",
+          "en": "DNFBitBit v2"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;DNFBitBitv2"
+        },
+        "Full Font Name": {
+          "ko": "던파 비트비트체 v2",
+          "en": "DNFBitBit v2"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20230925"
+        },
+        "PostScript Name": {
+          "en": "DNFBitBitv2"
+        },
+        "Trademark": {
+          "en": "DNF Bit Bit v2 is a trademark of NEOPLE inc"
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "en": "DNF Bit Bit v2"
+        }
+      }
+    },
+    {
+      "id": "dnf-forgedblade",
+      "family": "dnfforgedblade",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/dnf_forgedblade/dnf_forgedblade.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 4,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2005 NEOPLE inc. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "던파 연단된 칼날 Bold",
+          "en": "DNF Forged Blade Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;DNFForgedBlade-Bold"
+        },
+        "Full Font Name": {
+          "ko": "던파 연단된 칼날 Bold",
+          "en": "DNF Forged Blade Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20230807"
+        },
+        "PostScript Name": {
+          "en": "DNFForgedBlade-Bold"
+        },
+        "Trademark": {
+          "en": "DNF Forged Blade is a trademark of NEOPLE inc"
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "던파 연단된 칼날",
+          "en": "DNF Forged Blade"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
       "id": "godob",
       "family": "godob",
       "categories": [
@@ -1249,6 +1519,189 @@
       }
     },
     {
+      "id": "locus-sangsang",
+      "family": "locus_sangsang",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/locus_sangsang/locus_sangsang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 3,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 2,
+          "midline": 0,
+          "xHeight": 3
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.locus.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2016 by LOCUS, LOCUS_ART. All rights reserved.",
+          "en": "Copyright (c) 2016 by LOCUS, LOCUS_ART. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "locus_sangsang",
+          "en": "locus_sangsang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "LOCUS_locus_sangsang",
+          "en": "LOCUS_locus_sangsang"
+        },
+        "Full Font Name": {
+          "ko": "locus_sangsang",
+          "en": "locus_sangsang"
+        },
+        "Version": {
+          "ko": "Version 1.0",
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "locus_sangsang"
+        },
+        "Trademark": {
+          "en": "locus_sangsang is a trademark of LOCUS, LOCUS_ART."
+        },
+        "Manufacturer": {
+          "en": "LOCUS, LOCUS_ART"
+        },
+        "Designer": {
+          "en": "LOCUS_ART"
+        },
+        "URL Vendor": {
+          "en": "http://www.locus.com/"
+        },
+        "License Description": {
+          "en": "LOCUS"
+        },
+        "License Info URL": {
+          "en": "http://www.locus.com/"
+        }
+      }
+    },
+    {
+      "id": "mabinogi-classic",
+      "family": "mabinogi_classic",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/mabinogi_classic/mabinogi_classic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://fontrix.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 FONTRIX. All rights reserved. Font designed by FONTRIX.",
+          "en": "Copyright (c) 2022 FONTRIX. All rights reserved. Font designed by FONTRIX."
+        },
+        "Font Family": {
+          "ko": "마비옛체_OTF",
+          "en": "Mabinogi_Classic_OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "FONTRIX;Mabinogi_Classic_OTF;Regular"
+        },
+        "Full Font Name": {
+          "ko": "마비옛체_OTF Regular",
+          "en": "Mabinogi_Classic_OTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "MabinogiClassicOTFR"
+        },
+        "Trademark": {
+          "en": "Mabinogi_Classic_OTF Regular is a registered trademark of FONTRIX."
+        },
+        "Manufacturer": {
+          "en": "FONTRIX"
+        },
+        "Designer": {
+          "ko": "박용락; 이지윤;",
+          "en": "Park Yong-rak; Lee Ji-Yoon;"
+        },
+        "URL Vendor": {
+          "en": "http://fontrix.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "마비옛체_OTF",
+          "en": "Mabinogi_Classic_OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
       "id": "nanumfont-myungjoeco",
       "family": "nanummyeongjoeco",
       "categories": [
@@ -1990,6 +2443,324 @@
         "Typographic Subfamily": {
           "ko": "Bold",
           "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "netmarbleb",
+      "family": "netmarbleb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/netmarble_font/netmarbleb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.netmarble.net",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2018 by netmarble Co., Ltd. All rights reserved. Font designed by netmarble Co., Ltd.",
+          "en": "Copyright (c) 2018 by netmarble Co., Ltd. All rights reserved. Font designed by netmarble Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "netmarble Bold",
+          "en": "netmarble Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "ko": "netmarbleB",
+          "en": "netmarbleB"
+        },
+        "Full Font Name": {
+          "ko": "netmarble Bold",
+          "en": "netmarble Bold"
+        },
+        "Version": {
+          "ko": "netmarble 1.0",
+          "en": "netmarble 1.0"
+        },
+        "PostScript Name": {
+          "ko": "netmarbleB",
+          "en": "netmarbleB"
+        },
+        "Trademark": {
+          "ko": "netmarble, netmarble Co., Ltd.",
+          "en": "netmarble, netmarble Co., Ltd."
+        },
+        "Manufacturer": {
+          "ko": "netmarble Co., Ltd.",
+          "en": "netmarble Co., Ltd."
+        },
+        "Designer": {
+          "ko": "netmarble",
+          "en": "netmarble"
+        },
+        "URL Vendor": {
+          "ko": "http://www.netmarble.net",
+          "en": "http://www.netmarble.net"
+        },
+        "License Description": {
+          "ko": "netmarble Co., Ltd.",
+          "en": "netmarble Co., Ltd."
+        },
+        "License Info URL": {
+          "ko": "http://www.netmarble.net",
+          "en": "http://www.netmarble.net"
+        },
+        "Typographic Family": {
+          "ko": "netmarble",
+          "en": "netmarble"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "netmarblel",
+      "family": "netmarblel",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/netmarble_font/netmarblel.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 4,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.netmarble.net",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2018 by netmarble Co., Ltd. All rights reserved. Font designed by netmarble Co., Ltd.",
+          "en": "Copyright (c) 2018 by netmarble Co., Ltd. All rights reserved. Font designed by netmarble Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "netmarble Light",
+          "en": "netmarble Light"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Light",
+          "en": "Light"
+        },
+        "Unique Font Identifier": {
+          "ko": "netmarbleL",
+          "en": "netmarbleL"
+        },
+        "Full Font Name": {
+          "ko": "netmarble Light",
+          "en": "netmarble Light"
+        },
+        "Version": {
+          "ko": "netmarble 1.0",
+          "en": "netmarble 1.0"
+        },
+        "PostScript Name": {
+          "ko": "netmarbleL",
+          "en": "netmarbleL"
+        },
+        "Trademark": {
+          "ko": "netmarble, netmarble Co., Ltd.",
+          "en": "netmarble, netmarble Co., Ltd."
+        },
+        "Manufacturer": {
+          "ko": "netmarble Co., Ltd.",
+          "en": "netmarble Co., Ltd."
+        },
+        "Designer": {
+          "ko": "netmarble",
+          "en": "netmarble"
+        },
+        "URL Vendor": {
+          "ko": "http://www.netmarble.net",
+          "en": "http://www.netmarble.net"
+        },
+        "License Description": {
+          "ko": "netmarble Co., Ltd.",
+          "en": "netmarble Co., Ltd."
+        },
+        "License Info URL": {
+          "ko": "http://www.netmarble.net",
+          "en": "http://www.netmarble.net"
+        },
+        "Typographic Family": {
+          "ko": "netmarble",
+          "en": "netmarble"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "netmarblem",
+      "family": "netmarblem",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/netmarble_font/netmarblem.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.netmarble.net",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2018 by netmarble Co., Ltd. All rights reserved. Font designed by netmarble Co., Ltd.",
+          "en": "Copyright (c) 2018 by netmarble Co., Ltd. All rights reserved. Font designed by netmarble Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "netmarble Medium",
+          "en": "netmarble Medium"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Medium",
+          "en": "Medium"
+        },
+        "Unique Font Identifier": {
+          "ko": "netmarbleM",
+          "en": "netmarbleM"
+        },
+        "Full Font Name": {
+          "ko": "netmarble Medium",
+          "en": "netmarble Medium"
+        },
+        "Version": {
+          "ko": "netmarble 1.0",
+          "en": "netmarble 1.0"
+        },
+        "PostScript Name": {
+          "ko": "netmarbleM",
+          "en": "netmarbleM"
+        },
+        "Trademark": {
+          "ko": "netmarble, netmarble Co., Ltd.",
+          "en": "netmarble, netmarble Co., Ltd."
+        },
+        "Manufacturer": {
+          "ko": "netmarble Co., Ltd.",
+          "en": "netmarble Co., Ltd."
+        },
+        "Designer": {
+          "ko": "netmarble",
+          "en": "netmarble"
+        },
+        "URL Vendor": {
+          "ko": "http://www.netmarble.net",
+          "en": "http://www.netmarble.net"
+        },
+        "License Description": {
+          "ko": "netmarble Co., Ltd.",
+          "en": "netmarble Co., Ltd."
+        },
+        "License Info URL": {
+          "ko": "http://www.netmarble.net",
+          "en": "http://www.netmarble.net"
+        },
+        "Typographic Family": {
+          "ko": "netmarble",
+          "en": "netmarble"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
         }
       }
     },

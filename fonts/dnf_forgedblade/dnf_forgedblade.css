@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'dnfforgedblade';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./dnfforgedblade-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'dnfforgedblade';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./dnfforgedblade-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'dnfforgedblade';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./dnfforgedblade-bold.woff2') format('woff2');
+}

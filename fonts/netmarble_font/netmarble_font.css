@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'netmarbleb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./netmarbleb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'netmarblel';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./netmarblel.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'netmarblem';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./netmarblem.woff2') format('woff2');
+}
