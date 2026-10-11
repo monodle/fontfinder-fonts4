@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'knu-truth';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./knu-truth.woff2') format('woff2');
+}

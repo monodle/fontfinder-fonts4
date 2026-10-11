@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'godomaum';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./godomaum.woff2') format('woff2');
+}

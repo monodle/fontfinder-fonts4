@@ -1,6 +1,1253 @@
 {
-  "nextRepo": null,
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts5@20261011/fonts",
   "fonts": [
+    {
+      "id": "godob",
+      "family": "godob",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/godofont_all/godob.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 2,
+          "midline": 0,
+          "xHeight": 4
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2012 GodoSoft & YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "고도 B",
+          "en": "Godo B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;GodoB"
+        },
+        "Full Font Name": {
+          "ko": "고도 B",
+          "en": "GodoB"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20120608"
+        },
+        "PostScript Name": {
+          "en": "GodoB"
+        },
+        "Trademark": {
+          "en": "Godo is a trademark of GodoSoft."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        }
+      }
+    },
+    {
+      "id": "godom",
+      "family": "godom",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/godofont_all/godom.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 2,
+          "midline": 0,
+          "xHeight": 4
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2012 GodoSoft & YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "고도 M",
+          "en": "Godo M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;GodoM"
+        },
+        "Full Font Name": {
+          "ko": "고도 M",
+          "en": "GodoM"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20120608"
+        },
+        "PostScript Name": {
+          "en": "GodoM"
+        },
+        "Trademark": {
+          "en": "Godo is a trademark of GodoSoft."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        }
+      }
+    },
+    {
+      "id": "godomaum",
+      "family": "godomaum",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/godofont_all/godomaum.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 2,
+          "midline": 0,
+          "xHeight": 4
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.godo.co.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright ⓒ 2017 NHNgodo All rights reserved...?\u0017f?"
+        },
+        "Font Family": {
+          "ko": "godoMaum",
+          "en": "godoMaum"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;GodoM"
+        },
+        "Full Font Name": {
+          "ko": "godoMaum",
+          "en": "GodoM"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20171009"
+        },
+        "PostScript Name": {
+          "en": "godoMaum"
+        },
+        "Trademark": {
+          "en": "godoMaum is a trademark of NHNgodo"
+        },
+        "Manufacturer": {
+          "en": "NHNgodo"
+        },
+        "Designer": {
+          "en": "NHNgodo"
+        },
+        "URL Vendor": {
+          "en": "http://www.godo.co.kr"
+        },
+        "Typographic Family": {
+          "en": "godoMaum"
+        }
+      }
+    },
+    {
+      "id": "godorounded-l",
+      "family": "godorounded-l",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/godofont_all/godorounded-l.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Typeface © (NHNgodo). 2016. All Rights Reserved"
+        },
+        "Font Family": {
+          "en": "godoRounded L"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Light",
+          "de": "Regular",
+          "fr": "Regular",
+          "win_0x0403": "Regular",
+          "win_0x0405": "Regular",
+          "win_0x0406": "Regular",
+          "win_0x0408": "Regular",
+          "win_0x040A": "Regular",
+          "win_0x040B": "Regular",
+          "win_0x040E": "Regular",
+          "win_0x0410": "Regular",
+          "win_0x0413": "Regular",
+          "win_0x0414": "Regular",
+          "win_0x0415": "Regular",
+          "win_0x0416": "Regular",
+          "win_0x0419": "Regular",
+          "win_0x041B": "Regular",
+          "win_0x041D": "Regular",
+          "win_0x041F": "Regular",
+          "win_0x0424": "Regular",
+          "win_0x042D": "Regular",
+          "win_0x080A": "Regular",
+          "win_0x0816": "Regular",
+          "win_0x0C0A": "Regular",
+          "win_0x0C0C": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "godoRounded:Version 1.00"
+        },
+        "Full Font Name": {
+          "en": "godoRounded L"
+        },
+        "Version": {
+          "en": "Version 1.00 August 17, 2016, initial release"
+        },
+        "PostScript Name": {
+          "en": "godoRounded L"
+        }
+      }
+    },
+    {
+      "id": "godorounded-r",
+      "family": "godorounded-r",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/godofont_all/godorounded-r.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Typeface © (NHNgodo). 2016. All Rights Reserved"
+        },
+        "Font Family": {
+          "en": "godoRounded R"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular",
+          "de": "Regular",
+          "fr": "Regular",
+          "win_0x0403": "Regular",
+          "win_0x0405": "Regular",
+          "win_0x0406": "Regular",
+          "win_0x0408": "Regular",
+          "win_0x040A": "Regular",
+          "win_0x040B": "Regular",
+          "win_0x040E": "Regular",
+          "win_0x0410": "Regular",
+          "win_0x0413": "Regular",
+          "win_0x0414": "Regular",
+          "win_0x0415": "Regular",
+          "win_0x0416": "Regular",
+          "win_0x0419": "Regular",
+          "win_0x041B": "Regular",
+          "win_0x041D": "Regular",
+          "win_0x041F": "Regular",
+          "win_0x0424": "Regular",
+          "win_0x042D": "Regular",
+          "win_0x080A": "Regular",
+          "win_0x0816": "Regular",
+          "win_0x0C0A": "Regular",
+          "win_0x0C0C": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "godoRounded:Version 1.00"
+        },
+        "Full Font Name": {
+          "en": "godoRounded R"
+        },
+        "Version": {
+          "en": "Version 1.00 August 17, 2016, initial release"
+        },
+        "PostScript Name": {
+          "en": "godoRounded R"
+        }
+      }
+    },
+    {
+      "id": "gowun-batang",
+      "family": "gowunbatang",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "2.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/gowun_batang/gowun_batang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "http://www.ryufont.com/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright 2021 The Gowun Batang Project Authors (https://github.com/yangheeryu/Gowun-Batang)"
+        },
+        "Font Family": {
+          "en": "Gowun Batang"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "2.000;RYHG;GowunBatang-Regular"
+        },
+        "Full Font Name": {
+          "en": "Gowun Batang Regular"
+        },
+        "Version": {
+          "en": "Version 2.000"
+        },
+        "PostScript Name": {
+          "en": "GowunBatang-Regular"
+        },
+        "Manufacturer": {
+          "en": "Yanghee Ryu"
+        },
+        "Designer": {
+          "en": "Yanghee Ryu"
+        },
+        "URL Vendor": {
+          "en": "http://www.ryufont.com/"
+        },
+        "License Description": {
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        "License Info URL": {
+          "en": "https://scripts.sil.org/OFL"
+        }
+      }
+    },
+    {
+      "id": "goyangdeogyang",
+      "family": "goyangdeogyang",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/goyang/goyangdeogyang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) 2018 by Goyang. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "고양덕양 EB",
+          "en": "GoyangDeogyang EB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Goyang: GoyangDeogyang EB Regular: 2018"
+        },
+        "Full Font Name": {
+          "ko": "고양덕양 EB",
+          "en": "GoyangDeogyangEB-Regular"
+        },
+        "Version": {
+          "en": "1.000"
+        },
+        "PostScript Name": {
+          "en": "GoyangDeogyangEB-Regular"
+        },
+        "Trademark": {
+          "en": "GoyangDeogyang EB Regular is a trademark of ."
+        },
+        "Manufacturer": {
+          "en": "Goyang"
+        },
+        "Typographic Family": {
+          "ko": "고양덕양 EB",
+          "en": "GoyangDeogyang EB"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "goyangdeogyang-b",
+      "family": "goyangdeogyang-b",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/goyang/goyangdeogyang-b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) 2018 by Goyang. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "고양덕양 B",
+          "en": "GoyangDeogyang B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Goyang: GoyangDeogyang B Regular: 2018"
+        },
+        "Full Font Name": {
+          "ko": "고양덕양 B",
+          "en": "GoyangDeogyangB-Regular"
+        },
+        "Version": {
+          "en": "1.000"
+        },
+        "PostScript Name": {
+          "en": "GoyangDeogyangB-Regular"
+        },
+        "Trademark": {
+          "en": "GoyangDeogyang B Regular is a trademark of Goyang."
+        },
+        "Manufacturer": {
+          "en": "Goyang"
+        },
+        "Typographic Family": {
+          "ko": "고양덕양 B",
+          "en": "GoyangDeogyang B"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "goyangilsan-l",
+      "family": "goyangilsan-l",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/goyang/goyangilsan-l.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2018 by Goyang. All rights reserved.",
+          "en": "Copyright (c) 2018 by Goyang. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "고양일산 L",
+          "en": "GoyangIlsan L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "고양일산 L Regular",
+          "en": "GoyangIlsan L Regular"
+        },
+        "Full Font Name": {
+          "ko": "고양일산 L",
+          "en": "GoyangIlsan L"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "GoyangIlsan_L",
+          "en": "GoyangIlsan_L"
+        },
+        "Trademark": {
+          "ko": "GoyangIlsan L Regular is a trademark of Goyang.",
+          "en": "GoyangIlsan L Regular is a trademark of Goyang."
+        },
+        "Typographic Family": {
+          "ko": "고양일산 L",
+          "en": "GoyangIlsan L"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "goyangilsan-r",
+      "family": "goyangilsan-r",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "001.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/goyang/goyangilsan-r.css",
+      "os2": {
+        "familyClass": {
+          "classId": 8,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 3,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 2,
+          "midline": 0,
+          "xHeight": 4
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) 2018 by Goyang. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "고양일산 R",
+          "en": "GoyangIlsan R"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Goyang: GoyangIlsan R Regular: 2018"
+        },
+        "Full Font Name": {
+          "ko": "고양일산 R",
+          "en": "GoyangIlsanR-Regular"
+        },
+        "Version": {
+          "en": "Version 001.000"
+        },
+        "PostScript Name": {
+          "en": "GoyangIlsanR-Regular"
+        },
+        "Trademark": {
+          "en": "GoyangIlsan R Regular is a trademark of Goyang."
+        },
+        "Manufacturer": {
+          "en": "Goyang"
+        },
+        "Typographic Family": {
+          "ko": "고양일산 R",
+          "en": "GoyangIlsan R"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "gumi-dotum",
+      "family": "gumi-dotum",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/gumi/gumi-dotum.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2024 by Gumi City.  All rights reserved.",
+          "en": "Copyright (c) 2024 by Gumi City.  All rights reserved."
+        },
+        "Font Family": {
+          "ko": "구미돋움체",
+          "en": "Gumi Dotum"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Gumi Dotum"
+        },
+        "Full Font Name": {
+          "ko": "구미돋움체",
+          "en": "Gumi Dotum"
+        },
+        "Version": {
+          "en": "Version 1.000;Glyphs 3.2.3 (3260)"
+        },
+        "PostScript Name": {
+          "ko": "GumiDotum",
+          "en": "GumiDotum"
+        },
+        "Trademark": {
+          "ko": "Gumi Dotum is a trademark of Gumi City.",
+          "en": "Gumi Dotum is a trademark of Gumi City."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Gumi City"
+        },
+        "License Info URL": {
+          "en": "https://www.gumi.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "구미돋움체",
+          "en": "Gumi Dotum"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "gumi-industry",
+      "family": "gumi-industry",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/gumi/gumi-industry.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2024 by Gumi City. All rights reserved.",
+          "en": "Copyright (c) 2024 by Gumi City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "구미첨단산업체",
+          "en": "Gumi Industry"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Gumi Industry"
+        },
+        "Full Font Name": {
+          "ko": "구미첨단산업체",
+          "en": "Gumi Industry"
+        },
+        "Version": {
+          "en": "Version 1.000;Glyphs 3.2.3 (3260)"
+        },
+        "PostScript Name": {
+          "ko": "GumiIndustry",
+          "en": "GumiIndustry"
+        },
+        "Trademark": {
+          "ko": "Gumi Industry is a trademark of Gumi City.",
+          "en": "Gumi Industry is a trademark of Gumi City."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Gumi City"
+        },
+        "License Info URL": {
+          "en": "https://www.gumi.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "구미첨단산업체",
+          "en": "Gumi Industry"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "gumi-romance",
+      "family": "gumi-romance",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/gumi/gumi-romance.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2024 by Gumi City. All rights reserved.",
+          "en": "Copyright (c) 2024 by Gumi City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "낭만있구미체",
+          "en": "Gumi Romance"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Gumi Romance"
+        },
+        "Full Font Name": {
+          "ko": "낭만있구미체",
+          "en": "Gumi Romance"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "GumiRomance",
+          "en": "GumiRomance"
+        },
+        "Trademark": {
+          "ko": "Gumi Romance is a trademark of Gumi City.",
+          "en": "Gumi Romance is a trademark of Gumi City."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Gumi City"
+        },
+        "License Info URL": {
+          "en": "https://www.gumi.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "낭만있구미체",
+          "en": "Gumi Romance"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "knu-truth",
+      "family": "knu-truth",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts4@20261011/fonts/knu-truth/knu-truth.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by KYUNGPOOK NATIONAL UNIVERSITY. All rights reserved.",
+          "en": "Copyright (c) 2023 by KYUNGPOOK NATIONAL UNIVERSITY. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "경북대진리체",
+          "en": "KNU TRUTH"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "KNU TRUTH"
+        },
+        "Full Font Name": {
+          "ko": "경북대진리체",
+          "en": "KNU TRUTH"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "경북대진리체",
+          "en": "KNU TRUTH"
+        },
+        "Trademark": {
+          "ko": "KNU TRUTH is a trademark of KYUNGPOOK NATIONAL UNIVERSITY.",
+          "en": "KNU TRUTH is a trademark of KYUNGPOOK NATIONAL UNIVERSITY."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "KYUNGPOOK NATIONAL UNIVERSITY"
+        },
+        "License Info URL": {
+          "en": "https://knu.ac.kr"
+        },
+        "Typographic Family": {
+          "ko": "경북대진리체",
+          "en": "KNU TRUTH"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
     {
       "id": "nanumfont-myungjoeco",
       "family": "nanummyeongjoeco",
@@ -47,124 +1294,58 @@
       },
       "homepage": "http://www.nhncorp.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright � 2011 NHN Corporation. All rights reserved. Font designed by FONTRIX."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by FONTRIX."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF 에코"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF Eco"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;RIXF;NanumMyeongjoOTFEco"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF 에코"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF Eco"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;PS 1;hotconv 1.0.69;makeotf.lib2.5.35818"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTFEco"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF Eco is a registered trademark of NHN Corporation."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "NHN Corporation"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "박용락; 윤지희;"
-          },
-          {
-            "lang": "en",
-            "value": "Yong-rak, Park; Ji-hee, Yoon"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.nhncorp.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "NHN Corporation"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.nhncorp.com"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF 에코"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF Eco"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright � 2011 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+          "en": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by FONTRIX."
+        },
+        "Font Family": {
+          "ko": "나눔명조OTF 에코",
+          "en": "NanumMyeongjoOTF Eco"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;RIXF;NanumMyeongjoOTFEco"
+        },
+        "Full Font Name": {
+          "ko": "나눔명조OTF 에코",
+          "en": "NanumMyeongjoOTF Eco"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 1.0.69;makeotf.lib2.5.35818"
+        },
+        "PostScript Name": {
+          "en": "NanumMyeongjoOTFEco"
+        },
+        "Trademark": {
+          "en": "NanumMyeongjoOTF Eco is a registered trademark of NHN Corporation."
+        },
+        "Manufacturer": {
+          "en": "NHN Corporation"
+        },
+        "Designer": {
+          "ko": "박용락; 윤지희;",
+          "en": "Yong-rak, Park; Ji-hee, Yoon"
+        },
+        "URL Vendor": {
+          "en": "http://www.nhncorp.com"
+        },
+        "License Description": {
+          "en": "NHN Corporation"
+        },
+        "License Info URL": {
+          "en": "http://www.nhncorp.com"
+        },
+        "Typographic Family": {
+          "ko": "나눔명조OTF 에코",
+          "en": "NanumMyeongjoOTF Eco"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -213,124 +1394,58 @@
       },
       "homepage": "http://www.nhncorp.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright � 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "3.010;RIXF;NanumMyeongjoOTF"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 3.011;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF is a registered trademark of NHN Corporation."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "NHN Corporation"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "박용락; 윤지희;"
-          },
-          {
-            "lang": "en",
-            "value": "Yong-rak, Park; Ji-hee, Yoon"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.nhncorp.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "NHN Corporation"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.nhncorp.com"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright � 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+          "en": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
+        },
+        "Font Family": {
+          "ko": "나눔명조OTF",
+          "en": "NanumMyeongjoOTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "3.010;RIXF;NanumMyeongjoOTF"
+        },
+        "Full Font Name": {
+          "ko": "나눔명조OTF",
+          "en": "NanumMyeongjoOTF"
+        },
+        "Version": {
+          "en": "Version 3.011;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
+        },
+        "PostScript Name": {
+          "en": "NanumMyeongjoOTF"
+        },
+        "Trademark": {
+          "en": "NanumMyeongjoOTF is a registered trademark of NHN Corporation."
+        },
+        "Manufacturer": {
+          "en": "NHN Corporation"
+        },
+        "Designer": {
+          "ko": "박용락; 윤지희;",
+          "en": "Yong-rak, Park; Ji-hee, Yoon"
+        },
+        "URL Vendor": {
+          "en": "http://www.nhncorp.com"
+        },
+        "License Description": {
+          "en": "NHN Corporation"
+        },
+        "License Info URL": {
+          "en": "http://www.nhncorp.com"
+        },
+        "Typographic Family": {
+          "ko": "나눔명조OTF",
+          "en": "NanumMyeongjoOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -378,124 +1493,58 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright �� 2016 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright ⓒ 2016 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어OTF Bold"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquareOTF Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;SAND;NanumSquareOTFB;160623_01;"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어OTF Bold"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquareOTF Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;PS 1;hotconv 1.0.88;makeotf.lib2.5.647800"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "NanumSquareOTFB"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "NanumSquareOTFB is a registered trademark of Sandoll Communications Inc."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "NAVER Corporation"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "박주성; 이도경; 김초롱; 강민재; 박부미; 김상아;"
-          },
-          {
-            "lang": "en",
-            "value": "Juseong-Park; Dokyung-Lee; Chorong-Kim; MinJae-Kang; Boomi-Park; Sang-a Kim;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "www.navercorp.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "NAVER Corporation"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "www.navercorp.com"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어OTF"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquareOTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright �� 2016 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "en": "Copyright ⓒ 2016 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+        },
+        "Font Family": {
+          "ko": "나눔스퀘어OTF Bold",
+          "en": "NanumSquareOTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;NanumSquareOTFB;160623_01;"
+        },
+        "Full Font Name": {
+          "ko": "나눔스퀘어OTF Bold",
+          "en": "NanumSquareOTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 1.0.88;makeotf.lib2.5.647800"
+        },
+        "PostScript Name": {
+          "en": "NanumSquareOTFB"
+        },
+        "Trademark": {
+          "en": "NanumSquareOTFB is a registered trademark of Sandoll Communications Inc."
+        },
+        "Manufacturer": {
+          "en": "NAVER Corporation"
+        },
+        "Designer": {
+          "ko": "박주성; 이도경; 김초롱; 강민재; 박부미; 김상아;",
+          "en": "Juseong-Park; Dokyung-Lee; Chorong-Kim; MinJae-Kang; Boomi-Park; Sang-a Kim;"
+        },
+        "URL Vendor": {
+          "en": "www.navercorp.com"
+        },
+        "License Description": {
+          "en": "NAVER Corporation"
+        },
+        "License Info URL": {
+          "en": "www.navercorp.com"
+        },
+        "Typographic Family": {
+          "ko": "나눔스퀘어OTF",
+          "en": "NanumSquareOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -543,124 +1592,58 @@
       },
       "homepage": "http://www.navercorp.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright �� 2017 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright ⓒ 2017 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어라운드OTF Bold"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquareRoundOTF Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;SAND;NanumSquareRoundOTFB;170921_01;"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어라운드OTF Bold"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquareRoundOTF Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "NanumSquareRoundOTFB"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "NanumSquareRoundOTFB is a registered trademark of NAVER Coporation"
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "NAVER Coporation"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "이도경; 김초롱; 강민재; 박주성; 김상아;"
-          },
-          {
-            "lang": "en",
-            "value": "Dokyung-Lee; Chorong-Kim; Minjae-Kang; Juseong-Park; Sang-a Kim;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.navercorp.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "NAVER Corporation"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.navercorp.com"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어라운드OTF"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquareRoundOTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright �� 2017 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "en": "Copyright ⓒ 2017 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+        },
+        "Font Family": {
+          "ko": "나눔스퀘어라운드OTF Bold",
+          "en": "NanumSquareRoundOTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;NanumSquareRoundOTFB;170921_01;"
+        },
+        "Full Font Name": {
+          "ko": "나눔스퀘어라운드OTF Bold",
+          "en": "NanumSquareRoundOTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
+        },
+        "PostScript Name": {
+          "en": "NanumSquareRoundOTFB"
+        },
+        "Trademark": {
+          "en": "NanumSquareRoundOTFB is a registered trademark of NAVER Coporation"
+        },
+        "Manufacturer": {
+          "en": "NAVER Coporation"
+        },
+        "Designer": {
+          "ko": "이도경; 김초롱; 강민재; 박주성; 김상아;",
+          "en": "Dokyung-Lee; Chorong-Kim; Minjae-Kang; Juseong-Park; Sang-a Kim;"
+        },
+        "URL Vendor": {
+          "en": "http://www.navercorp.com"
+        },
+        "License Description": {
+          "en": "NAVER Corporation"
+        },
+        "License Info URL": {
+          "en": "http://www.navercorp.com"
+        },
+        "Typographic Family": {
+          "ko": "나눔스퀘어라운드OTF",
+          "en": "NanumSquareRoundOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -709,48 +1692,27 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright © 2019 NAVER Corporation. All rights reserved. Font Designed by Sandoll Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "en",
-            "value": "NanumHuman OTF Regular"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;SAND;NanumHumanOTFRegular;241015_01;"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "en",
-            "value": "NanumHuman OTF Regular"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "NanumHumanOTFRegular"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright © 2019 NAVER Corporation. All rights reserved. Font Designed by Sandoll Inc."
+        },
+        "Font Family": {
+          "en": "NanumHuman OTF Regular"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;NanumHumanOTFRegular;241015_01;"
+        },
+        "Full Font Name": {
+          "en": "NanumHuman OTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "NanumHumanOTFRegular"
+        }
       }
     },
     {
@@ -797,112 +1759,52 @@
       },
       "homepage": "http://www.nhncorp.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2014 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2014 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF 옛한글"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF YetHangul"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "NHNCorporation:NanumMyeongjoOTF-YetHangul"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF 옛한글"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF YetHangul"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.0.0.9 Build 20140917"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF-YetHangul"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF YetHangul is a registered trademark of NHN Corporation."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "NHN Corporation"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "박용락; 이상민; 윤지희"
-          },
-          {
-            "lang": "en",
-            "value": "Yong-rak, Park; Sang-min, Lee; Ji-hee, Yoon"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.nhncorp.com"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "나눔명조OTF 옛한글"
-          },
-          {
-            "lang": "en",
-            "value": "NanumMyeongjoOTF YetHangul"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2014 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2014 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "나눔명조OTF 옛한글",
+          "en": "NanumMyeongjoOTF YetHangul"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "NHNCorporation:NanumMyeongjoOTF-YetHangul"
+        },
+        "Full Font Name": {
+          "ko": "나눔명조OTF 옛한글",
+          "en": "NanumMyeongjoOTF YetHangul"
+        },
+        "Version": {
+          "en": "Version 1.0.0.9 Build 20140917"
+        },
+        "PostScript Name": {
+          "en": "NanumMyeongjoOTF-YetHangul"
+        },
+        "Trademark": {
+          "en": "NanumMyeongjoOTF YetHangul is a registered trademark of NHN Corporation."
+        },
+        "Manufacturer": {
+          "en": "NHN Corporation"
+        },
+        "Designer": {
+          "ko": "박용락; 이상민; 윤지희",
+          "en": "Yong-rak, Park; Sang-min, Lee; Ji-hee, Yoon"
+        },
+        "URL Vendor": {
+          "en": "http://www.nhncorp.com"
+        },
+        "Typographic Family": {
+          "ko": "나눔명조OTF 옛한글",
+          "en": "NanumMyeongjoOTF YetHangul"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -949,104 +1851,50 @@
       },
       "homepage": "http://www.nhncorp.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright � 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "나눔손글씨 펜 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "Nanum Pen Script OTF"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.100;SAND;NanumPenOTF"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "나눔손글씨 펜 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "Nanum Pen Script OTF"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "NanumPenOTF"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "NanumPenOTF is a registered trademark of NHN Corporation."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "NHN Corporation"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "곽두열; 최형환; 노영권;"
-          },
-          {
-            "lang": "en",
-            "value": "Doo-yul Kwak; Hyunghwan Choi; Nicolas Noh;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.nhncorp.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "NHN Corporation"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.nhncorp.com"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright � 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "en": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+        },
+        "Font Family": {
+          "ko": "나눔손글씨 펜 OTF",
+          "en": "Nanum Pen Script OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.100;SAND;NanumPenOTF"
+        },
+        "Full Font Name": {
+          "ko": "나눔손글씨 펜 OTF",
+          "en": "Nanum Pen Script OTF"
+        },
+        "Version": {
+          "en": "Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895"
+        },
+        "PostScript Name": {
+          "en": "NanumPenOTF"
+        },
+        "Trademark": {
+          "en": "NanumPenOTF is a registered trademark of NHN Corporation."
+        },
+        "Manufacturer": {
+          "en": "NHN Corporation"
+        },
+        "Designer": {
+          "ko": "곽두열; 최형환; 노영권;",
+          "en": "Doo-yul Kwak; Hyunghwan Choi; Nicolas Noh;"
+        },
+        "URL Vendor": {
+          "en": "http://www.nhncorp.com"
+        },
+        "License Description": {
+          "en": "NHN Corporation"
+        },
+        "License Info URL": {
+          "en": "http://www.nhncorp.com"
+        }
       }
     },
     {
@@ -1097,112 +1945,52 @@
       },
       "homepage": "http://www.navercorp.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright � 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어 네오 OTF Bold"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquare Neo OTF Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;SAND;NanumSquareNeo-cBd;220812_01;"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어 네오 OTF Bold"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquare Neo OTF Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;PS 1;hotconv 1.0.79;makeotf.lib2.5.61930"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "NanumSquareNeo-cBd"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "NanumSquare Neo OTF is a registered trademark of NAVER Corp."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Sandoll Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "김승언; 오원진; 김해성; 김준수; 현정연; 김윤아; 장수화;"
-          },
-          {
-            "lang": "en",
-            "value": "Seungeon Kim; Wonjin Oh; Haesung Kim; Junsu Kim; Jeongyeon Hyun; Yoonah Kim; Suhwa Jang;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.navercorp.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "나눔스퀘어 네오 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "NanumSquare Neo OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright � 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc.",
+          "en": "Copyright © 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc."
+        },
+        "Font Family": {
+          "ko": "나눔스퀘어 네오 OTF Bold",
+          "en": "NanumSquare Neo OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;NanumSquareNeo-cBd;220812_01;"
+        },
+        "Full Font Name": {
+          "ko": "나눔스퀘어 네오 OTF Bold",
+          "en": "NanumSquare Neo OTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 1.0.79;makeotf.lib2.5.61930"
+        },
+        "PostScript Name": {
+          "en": "NanumSquareNeo-cBd"
+        },
+        "Trademark": {
+          "en": "NanumSquare Neo OTF is a registered trademark of NAVER Corp."
+        },
+        "Manufacturer": {
+          "en": "Sandoll Inc."
+        },
+        "Designer": {
+          "ko": "김승언; 오원진; 김해성; 김준수; 현정연; 김윤아; 장수화;",
+          "en": "Seungeon Kim; Wonjin Oh; Haesung Kim; Junsu Kim; Jeongyeon Hyun; Yoonah Kim; Suhwa Jang;"
+        },
+        "URL Vendor": {
+          "en": "http://www.navercorp.com/"
+        },
+        "Typographic Family": {
+          "ko": "나눔스퀘어 네오 OTF",
+          "en": "NanumSquare Neo OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -1257,132 +2045,60 @@
       },
       "homepage": "http://scripts.sil.org/OFL",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright © 2024 피티앤"
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © 2024 PT&"
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "페이퍼로지 4 Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Paperlogy 4 Regular"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.001;UKWN;Paperlogy-4Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "Paperlogy 4 Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Paperlogy 4 Regular"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.001"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "Paperlogy-4Regular"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Paperlogy font is a trademark of Lee Juim."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "피티앤"
-          },
-          {
-            "lang": "en",
-            "value": "PT&"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "리디자인:이주임/ 기획:김도균 / 한글:G마켓산스/ 라틴:Montserrat"
-          },
-          {
-            "lang": "en",
-            "value": "redesigned by Lee Juim, glyphs from Gmarket Sans & Montserrat"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "www.designptn.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
-          },
-          {
-            "lang": "en",
-            "value": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://scripts.sil.org/OFL"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "페이퍼로지"
-          },
-          {
-            "lang": "en",
-            "value": "Paperlogy"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "4 Regular"
-          },
-          {
-            "lang": "en",
-            "value": "4 Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright © 2024 피티앤",
+          "en": "Copyright © 2024 PT&"
+        },
+        "Font Family": {
+          "ko": "페이퍼로지 4 Regular",
+          "en": "Paperlogy 4 Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.001;UKWN;Paperlogy-4Regular"
+        },
+        "Full Font Name": {
+          "ko": "Paperlogy 4 Regular",
+          "en": "Paperlogy 4 Regular"
+        },
+        "Version": {
+          "en": "Version 1.001"
+        },
+        "PostScript Name": {
+          "en": "Paperlogy-4Regular"
+        },
+        "Trademark": {
+          "en": "Paperlogy font is a trademark of Lee Juim."
+        },
+        "Manufacturer": {
+          "ko": "피티앤",
+          "en": "PT&"
+        },
+        "Designer": {
+          "ko": "리디자인:이주임/ 기획:김도균 / 한글:G마켓산스/ 라틴:Montserrat",
+          "en": "redesigned by Lee Juim, glyphs from Gmarket Sans & Montserrat"
+        },
+        "URL Vendor": {
+          "en": "www.designptn.com"
+        },
+        "License Description": {
+          "ko": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL",
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        "License Info URL": {
+          "en": "http://scripts.sil.org/OFL"
+        },
+        "Typographic Family": {
+          "ko": "페이퍼로지",
+          "en": "Paperlogy"
+        },
+        "Typographic Subfamily": {
+          "ko": "4 Regular",
+          "en": "4 Regular"
+        }
       }
     },
     {
@@ -1438,104 +2154,53 @@
       },
       "homepage": "https://orioncactus.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright © 2023 길형진"
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © 2023 Kil Hyung-jin"
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "en",
-            "value": "Pretendard"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.309;CTUS;Pretendard-Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "en",
-            "value": "Pretendard Regular"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.309"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "Pretendard-Regular"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Pretendard is a trademark of Kil Hyung-jin; Inter UI and Inter is a trademark of rsms; Source is a trademark of Adobe in the United States and/or other countries."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "길형진"
-          },
-          {
-            "lang": "en",
-            "value": "Kil Hyung-jin"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "en",
-            "value": "Base glyphs from Inter by Rasmus Andersson; Hangeul glyphs from Noto Sans CJK(Source Han Sans) by Jang Soo-young and Kang Joo-yeon, Sandoll Communications; Kana glyphs from M PLUS 1p by Coji Morishita, UNDERFOREST DESIGN; Combined and redesigned to Pretendard by Kil Hyung-jin."
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://orioncactus.com/"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://scripts.sil.org/OFL"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "en",
-            "value": "Pretendard"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright © 2023 길형진",
+          "en": "Copyright © 2023 Kil Hyung-jin"
+        },
+        "Font Family": {
+          "en": "Pretendard"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.309;CTUS;Pretendard-Regular"
+        },
+        "Full Font Name": {
+          "en": "Pretendard Regular"
+        },
+        "Version": {
+          "en": "Version 1.309"
+        },
+        "PostScript Name": {
+          "en": "Pretendard-Regular"
+        },
+        "Trademark": {
+          "en": "Pretendard is a trademark of Kil Hyung-jin; Inter UI and Inter is a trademark of rsms; Source is a trademark of Adobe in the United States and/or other countries."
+        },
+        "Manufacturer": {
+          "ko": "길형진",
+          "en": "Kil Hyung-jin"
+        },
+        "Designer": {
+          "en": "Base glyphs from Inter by Rasmus Andersson; Hangeul glyphs from Noto Sans CJK(Source Han Sans) by Jang Soo-young and Kang Joo-yeon, Sandoll Communications; Kana glyphs from M PLUS 1p by Coji Morishita, UNDERFOREST DESIGN; Combined and redesigned to Pretendard by Kil Hyung-jin."
+        },
+        "URL Vendor": {
+          "en": "https://orioncactus.com/"
+        },
+        "License Description": {
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+        },
+        "License Info URL": {
+          "en": "http://scripts.sil.org/OFL"
+        },
+        "Typographic Family": {
+          "en": "Pretendard"
+        },
+        "Typographic Subfamily": {
+          "en": "Regular"
+        }
       }
     },
     {
@@ -1584,98 +2249,47 @@
       },
       "homepage": "https://www.lotteriafont.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright © 2025 Lotte GRS co.,ltd all right reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © 2025 Lotte GRS co.,ltd all right reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "리아체 Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Ria Sans Regular"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;TTS ;RiaSans-Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "리아체 Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Ria Sans Regular"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Build 20250124"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "RiaSans-Regular"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Ria Sans Regular is a trademark of Lotte GRS co.,ltd."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "ttseoul."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "en",
-            "value": "ttseoul"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://www.lotteriafont.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "리아체"
-          },
-          {
-            "lang": "en",
-            "value": "Ria Sans"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright © 2025 Lotte GRS co.,ltd all right reserved.",
+          "en": "Copyright © 2025 Lotte GRS co.,ltd all right reserved."
+        },
+        "Font Family": {
+          "ko": "리아체 Regular",
+          "en": "Ria Sans Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;TTS ;RiaSans-Regular"
+        },
+        "Full Font Name": {
+          "ko": "리아체 Regular",
+          "en": "Ria Sans Regular"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20250124"
+        },
+        "PostScript Name": {
+          "en": "RiaSans-Regular"
+        },
+        "Trademark": {
+          "en": "Ria Sans Regular is a trademark of Lotte GRS co.,ltd."
+        },
+        "Manufacturer": {
+          "en": "ttseoul."
+        },
+        "Designer": {
+          "en": "ttseoul"
+        },
+        "URL Vendor": {
+          "en": "https://www.lotteriafont.com/"
+        },
+        "Typographic Family": {
+          "ko": "리아체",
+          "en": "Ria Sans"
+        }
       }
     },
     {
@@ -1724,132 +2338,60 @@
       },
       "homepage": "https://togethergroup.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2021 by Republic of Korea Air Force. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2021 by Republic of Korea Air Force. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "바른공군체 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "ROKAF Sans Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Republic of Korea Air Force: ROKAF Sans Bold: 2021"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "바른공군체 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "ROKAF Sans Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;FEAKit 1.0"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "ROKAF Sans Bold"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "ROKAF Sans Bold is a trademark of Republic of Korea Air Force."
-          },
-          {
-            "lang": "en",
-            "value": "ROKAF Sans Bold is a trademark of Republic of Korea Air Force."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://togethergroup.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "Republic of Korea Air Force"
-          },
-          {
-            "lang": "en",
-            "value": "Republic of Korea Air Force"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://rokaf.airforce.mil.kr/sites/airforce/index.do"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "바른공군체"
-          },
-          {
-            "lang": "en",
-            "value": "ROKAF Sans"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2021 by Republic of Korea Air Force. All rights reserved.",
+          "en": "Copyright (c) 2021 by Republic of Korea Air Force. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "바른공군체 Bold",
+          "en": "ROKAF Sans Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "Republic of Korea Air Force: ROKAF Sans Bold: 2021"
+        },
+        "Full Font Name": {
+          "ko": "바른공군체 Bold",
+          "en": "ROKAF Sans Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;FEAKit 1.0"
+        },
+        "PostScript Name": {
+          "en": "ROKAF Sans Bold"
+        },
+        "Trademark": {
+          "ko": "ROKAF Sans Bold is a trademark of Republic of Korea Air Force.",
+          "en": "ROKAF Sans Bold is a trademark of Republic of Korea Air Force."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://togethergroup.co.kr"
+        },
+        "License Description": {
+          "ko": "Republic of Korea Air Force",
+          "en": "Republic of Korea Air Force"
+        },
+        "License Info URL": {
+          "en": "https://rokaf.airforce.mil.kr/sites/airforce/index.do"
+        },
+        "Typographic Family": {
+          "ko": "바른공군체",
+          "en": "ROKAF Sans"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -1898,132 +2440,60 @@
       },
       "homepage": "https://togethergroup.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2021 by Republic of Korea Air Force. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2021 by Republic of Korea Air Force. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "강한공군체 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "ROKAF Slab Serif Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Republic of Korea Air Force: ROKAF Slab Serif Bold: 2021"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "강한공군체 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "ROKAF Slab Serif Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;FEAKit 1.0"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "ROKAF Slab Serif Bold"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "ROKAF Slab Serif Bold is a trademark of Republic of Korea Air Force."
-          },
-          {
-            "lang": "en",
-            "value": "ROKAF Slab Serif Bold is a trademark of Republic of Korea Air Force."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://togethergroup.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "Republic of Korea Air Force"
-          },
-          {
-            "lang": "en",
-            "value": "Republic of Korea Air Force"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://rokaf.airforce.mil.kr/sites/airforce/index.do"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "강한공군체"
-          },
-          {
-            "lang": "en",
-            "value": "ROKAF Slab Serif"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2021 by Republic of Korea Air Force. All rights reserved.",
+          "en": "Copyright (c) 2021 by Republic of Korea Air Force. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "강한공군체 Bold",
+          "en": "ROKAF Slab Serif Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "Republic of Korea Air Force: ROKAF Slab Serif Bold: 2021"
+        },
+        "Full Font Name": {
+          "ko": "강한공군체 Bold",
+          "en": "ROKAF Slab Serif Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;FEAKit 1.0"
+        },
+        "PostScript Name": {
+          "en": "ROKAF Slab Serif Bold"
+        },
+        "Trademark": {
+          "ko": "ROKAF Slab Serif Bold is a trademark of Republic of Korea Air Force.",
+          "en": "ROKAF Slab Serif Bold is a trademark of Republic of Korea Air Force."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://togethergroup.co.kr"
+        },
+        "License Description": {
+          "ko": "Republic of Korea Air Force",
+          "en": "Republic of Korea Air Force"
+        },
+        "License Info URL": {
+          "en": "https://rokaf.airforce.mil.kr/sites/airforce/index.do"
+        },
+        "Typographic Family": {
+          "ko": "강한공군체",
+          "en": "ROKAF Slab Serif"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -2070,62 +2540,32 @@
         "embedding": "Editable Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2019, snowfrost"
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "SF함박눈"
-          },
-          {
-            "lang": "en",
-            "value": "SF_HambakSnow"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "en",
-            "value": "ExtraBold"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "SF_HambakSnow_by_SnowFrost"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "SF함박눈"
-          },
-          {
-            "lang": "en",
-            "value": "SF_HambakSnow"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "SF_HambakSnow"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "눈서리"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright (c) 2019, snowfrost"
+        },
+        "Font Family": {
+          "ko": "SF함박눈",
+          "en": "SF_HambakSnow"
+        },
+        "Font Subfamily (Style)": {
+          "en": "ExtraBold"
+        },
+        "Unique Font Identifier": {
+          "en": "SF_HambakSnow_by_SnowFrost"
+        },
+        "Full Font Name": {
+          "ko": "SF함박눈",
+          "en": "SF_HambakSnow"
+        },
+        "Version": {
+          "en": "Version"
+        },
+        "PostScript Name": {
+          "en": "SF_HambakSnow"
+        },
+        "Designer": {
+          "ko": "눈서리"
+        }
       }
     },
     {
@@ -2170,112 +2610,52 @@
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 1 Thin"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 1 Thin"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Lottemart;The Jamsil OTF;1 Thin"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 1 Thin"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 1 Thin"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000; Build Release"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "TheJamsilOTF1Thin"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 1 Thin is a registered trademark of Lottemart."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Lottemart"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "유현주; 박용락;"
-          },
-          {
-            "lang": "en",
-            "value": "Yu Hyun-ju; Park Young-rak;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://company.lottemart.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "1 Thin"
-          },
-          {
-            "lang": "en",
-            "value": "1 Thin"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart.",
+          "en": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+        },
+        "Font Family": {
+          "ko": "더잠실 OTF 1 Thin",
+          "en": "The Jamsil OTF 1 Thin"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Lottemart;The Jamsil OTF;1 Thin"
+        },
+        "Full Font Name": {
+          "ko": "더잠실 OTF 1 Thin",
+          "en": "The Jamsil OTF 1 Thin"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "TheJamsilOTF1Thin"
+        },
+        "Trademark": {
+          "en": "The Jamsil OTF 1 Thin is a registered trademark of Lottemart."
+        },
+        "Manufacturer": {
+          "en": "Lottemart"
+        },
+        "Designer": {
+          "ko": "유현주; 박용락;",
+          "en": "Yu Hyun-ju; Park Young-rak;"
+        },
+        "URL Vendor": {
+          "en": "http://company.lottemart.com/"
+        },
+        "Typographic Family": {
+          "ko": "더잠실 OTF",
+          "en": "The Jamsil OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "1 Thin",
+          "en": "1 Thin"
+        }
       }
     },
     {
@@ -2320,112 +2700,52 @@
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 2 Light"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 2 Light"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Lottemart;The Jamsil OTF;2 Light"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 2 Light"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 2 Light"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000; Build Release"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "TheJamsilOTF2Light"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 2 Light is a registered trademark of Lottemart."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Lottemart"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "유현주; 박용락;"
-          },
-          {
-            "lang": "en",
-            "value": "Yu Hyun-ju; Park Young-rak;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://company.lottemart.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "2 Light"
-          },
-          {
-            "lang": "en",
-            "value": "2 Light"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart.",
+          "en": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+        },
+        "Font Family": {
+          "ko": "더잠실 OTF 2 Light",
+          "en": "The Jamsil OTF 2 Light"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Lottemart;The Jamsil OTF;2 Light"
+        },
+        "Full Font Name": {
+          "ko": "더잠실 OTF 2 Light",
+          "en": "The Jamsil OTF 2 Light"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "TheJamsilOTF2Light"
+        },
+        "Trademark": {
+          "en": "The Jamsil OTF 2 Light is a registered trademark of Lottemart."
+        },
+        "Manufacturer": {
+          "en": "Lottemart"
+        },
+        "Designer": {
+          "ko": "유현주; 박용락;",
+          "en": "Yu Hyun-ju; Park Young-rak;"
+        },
+        "URL Vendor": {
+          "en": "http://company.lottemart.com/"
+        },
+        "Typographic Family": {
+          "ko": "더잠실 OTF",
+          "en": "The Jamsil OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "2 Light",
+          "en": "2 Light"
+        }
       }
     },
     {
@@ -2472,112 +2792,52 @@
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 3 Regular"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 3 Regular"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Lottemart;The Jamsil OTF;3 Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 3 Regular"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 3 Regular"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000; Build Release"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "TheJamsilOTF3Regular"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 3 Regular is a registered trademark of Lottemart."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Lottemart"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "유현주; 박용락;"
-          },
-          {
-            "lang": "en",
-            "value": "Yu Hyun-ju; Park Young-rak;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://company.lottemart.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "3 Regular"
-          },
-          {
-            "lang": "en",
-            "value": "3 Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart.",
+          "en": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+        },
+        "Font Family": {
+          "ko": "더잠실 OTF 3 Regular",
+          "en": "The Jamsil OTF 3 Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Lottemart;The Jamsil OTF;3 Regular"
+        },
+        "Full Font Name": {
+          "ko": "더잠실 OTF 3 Regular",
+          "en": "The Jamsil OTF 3 Regular"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "TheJamsilOTF3Regular"
+        },
+        "Trademark": {
+          "en": "The Jamsil OTF 3 Regular is a registered trademark of Lottemart."
+        },
+        "Manufacturer": {
+          "en": "Lottemart"
+        },
+        "Designer": {
+          "ko": "유현주; 박용락;",
+          "en": "Yu Hyun-ju; Park Young-rak;"
+        },
+        "URL Vendor": {
+          "en": "http://company.lottemart.com/"
+        },
+        "Typographic Family": {
+          "ko": "더잠실 OTF",
+          "en": "The Jamsil OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "3 Regular",
+          "en": "3 Regular"
+        }
       }
     },
     {
@@ -2622,112 +2882,52 @@
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 4 Medium"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 4 Medium"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Lottemart;The Jamsil OTF;4 Medium"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 4 Medium"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 4 Medium"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000; Build Release"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "TheJamsilOTF4Medium"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 4 Medium is a registered trademark of Lottemart."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Lottemart"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "유현주; 박용락;"
-          },
-          {
-            "lang": "en",
-            "value": "Yu Hyun-ju; Park Young-rak;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://company.lottemart.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "4 Medium"
-          },
-          {
-            "lang": "en",
-            "value": "4 Medium"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart.",
+          "en": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+        },
+        "Font Family": {
+          "ko": "더잠실 OTF 4 Medium",
+          "en": "The Jamsil OTF 4 Medium"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Lottemart;The Jamsil OTF;4 Medium"
+        },
+        "Full Font Name": {
+          "ko": "더잠실 OTF 4 Medium",
+          "en": "The Jamsil OTF 4 Medium"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "TheJamsilOTF4Medium"
+        },
+        "Trademark": {
+          "en": "The Jamsil OTF 4 Medium is a registered trademark of Lottemart."
+        },
+        "Manufacturer": {
+          "en": "Lottemart"
+        },
+        "Designer": {
+          "ko": "유현주; 박용락;",
+          "en": "Yu Hyun-ju; Park Young-rak;"
+        },
+        "URL Vendor": {
+          "en": "http://company.lottemart.com/"
+        },
+        "Typographic Family": {
+          "ko": "더잠실 OTF",
+          "en": "The Jamsil OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "4 Medium",
+          "en": "4 Medium"
+        }
       }
     },
     {
@@ -2774,112 +2974,52 @@
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 5 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 5 Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Lottemart;The Jamsil OTF;5 Bold"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 5 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 5 Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000; Build Release"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "TheJamsilOTF5Bold"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 5 Bold is a registered trademark of Lottemart."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Lottemart"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "유현주; 박용락;"
-          },
-          {
-            "lang": "en",
-            "value": "Yu Hyun-ju; Park Young-rak;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://company.lottemart.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "5 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "5 Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart.",
+          "en": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+        },
+        "Font Family": {
+          "ko": "더잠실 OTF 5 Bold",
+          "en": "The Jamsil OTF 5 Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Lottemart;The Jamsil OTF;5 Bold"
+        },
+        "Full Font Name": {
+          "ko": "더잠실 OTF 5 Bold",
+          "en": "The Jamsil OTF 5 Bold"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "TheJamsilOTF5Bold"
+        },
+        "Trademark": {
+          "en": "The Jamsil OTF 5 Bold is a registered trademark of Lottemart."
+        },
+        "Manufacturer": {
+          "en": "Lottemart"
+        },
+        "Designer": {
+          "ko": "유현주; 박용락;",
+          "en": "Yu Hyun-ju; Park Young-rak;"
+        },
+        "URL Vendor": {
+          "en": "http://company.lottemart.com/"
+        },
+        "Typographic Family": {
+          "ko": "더잠실 OTF",
+          "en": "The Jamsil OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "5 Bold",
+          "en": "5 Bold"
+        }
       }
     },
     {
@@ -2924,112 +3064,52 @@
       },
       "homepage": "http://company.lottemart.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 6 ExtraBold"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 6 ExtraBold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Lottemart;The Jamsil OTF;6 ExtraBold"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF 6 ExtraBold"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 6 ExtraBold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000; Build Release"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "TheJamsilOTF6ExtraBold"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF 6 ExtraBold is a registered trademark of Lottemart."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Lottemart"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "유현주; 박용락;"
-          },
-          {
-            "lang": "en",
-            "value": "Yu Hyun-ju; Park Young-rak;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://company.lottemart.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "더잠실 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "The Jamsil OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "6 ExtraBold"
-          },
-          {
-            "lang": "en",
-            "value": "6 ExtraBold"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart.",
+          "en": "Copyright (c) 2022 Lottemart. All rights reserved. Font designed by Lottemart."
+        },
+        "Font Family": {
+          "ko": "더잠실 OTF 6 ExtraBold",
+          "en": "The Jamsil OTF 6 ExtraBold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Lottemart;The Jamsil OTF;6 ExtraBold"
+        },
+        "Full Font Name": {
+          "ko": "더잠실 OTF 6 ExtraBold",
+          "en": "The Jamsil OTF 6 ExtraBold"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "TheJamsilOTF6ExtraBold"
+        },
+        "Trademark": {
+          "en": "The Jamsil OTF 6 ExtraBold is a registered trademark of Lottemart."
+        },
+        "Manufacturer": {
+          "en": "Lottemart"
+        },
+        "Designer": {
+          "ko": "유현주; 박용락;",
+          "en": "Yu Hyun-ju; Park Young-rak;"
+        },
+        "URL Vendor": {
+          "en": "http://company.lottemart.com/"
+        },
+        "Typographic Family": {
+          "ko": "더잠실 OTF",
+          "en": "The Jamsil OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "6 ExtraBold",
+          "en": "6 ExtraBold"
+        }
       }
     },
     {
@@ -3081,108 +3161,54 @@
       },
       "homepage": "https://wantedlab.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright © 2024 Wanted Lab, Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "en",
-            "value": "Wanted Sans"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.003;WNTD;WantedSans-Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "en",
-            "value": "Wanted Sans Regular"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.003"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "WantedSans-Regular"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Wanted Sans is a trademark of Wanted Lab, Inc.\nWanted Logo is a trademark of Wanted Lab, Inc.\nSource is a trademark of Adobe in the United States and/or other countries."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "(주)원티드랩"
-          },
-          {
-            "lang": "en",
-            "value": "Wanted Lab, Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "디자인: 길형진 및 강한빈, 원티드랩; 한글: 본고딕, 장수영 및 강주연, 산돌커뮤니케이션;"
-          },
-          {
-            "lang": "en",
-            "value": "Original Design by Kil Hyung-jin and Kang Hanbin, Wanted Lab, Inc; Hangeul from Source Han Sans by Jang Soo-young and Kang Joo-yeon, Sandoll Communications;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://wantedlab.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
-          },
-          {
-            "lang": "en",
-            "value": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://scripts.sil.org/OFL"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "en",
-            "value": "Wanted Sans"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright © 2024 Wanted Lab, Inc."
+        },
+        "Font Family": {
+          "en": "Wanted Sans"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.003;WNTD;WantedSans-Regular"
+        },
+        "Full Font Name": {
+          "en": "Wanted Sans Regular"
+        },
+        "Version": {
+          "en": "Version 1.003"
+        },
+        "PostScript Name": {
+          "en": "WantedSans-Regular"
+        },
+        "Trademark": {
+          "en": "Wanted Sans is a trademark of Wanted Lab, Inc.\nWanted Logo is a trademark of Wanted Lab, Inc.\nSource is a trademark of Adobe in the United States and/or other countries."
+        },
+        "Manufacturer": {
+          "ko": "(주)원티드랩",
+          "en": "Wanted Lab, Inc."
+        },
+        "Designer": {
+          "ko": "디자인: 길형진 및 강한빈, 원티드랩; 한글: 본고딕, 장수영 및 강주연, 산돌커뮤니케이션;",
+          "en": "Original Design by Kil Hyung-jin and Kang Hanbin, Wanted Lab, Inc; Hangeul from Source Han Sans by Jang Soo-young and Kang Joo-yeon, Sandoll Communications;"
+        },
+        "URL Vendor": {
+          "en": "https://wantedlab.com"
+        },
+        "License Description": {
+          "ko": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL",
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        "License Info URL": {
+          "en": "https://scripts.sil.org/OFL"
+        },
+        "Typographic Family": {
+          "en": "Wanted Sans"
+        },
+        "Typographic Subfamily": {
+          "en": "Regular"
+        }
       }
     },
     {
@@ -3229,108 +3255,54 @@
       },
       "homepage": "https://wantedlab.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright © 2024 Wanted Lab, Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "en",
-            "value": "Wanted Sans ExtraBlack"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.003;WNTD;WantedSans-ExtraBlack"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "en",
-            "value": "Wanted Sans ExtraBlack"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.003"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "WantedSans-ExtraBlack"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Wanted Sans is a trademark of Wanted Lab, Inc.\nWanted Logo is a trademark of Wanted Lab, Inc.\nSource is a trademark of Adobe in the United States and/or other countries."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "(주)원티드랩"
-          },
-          {
-            "lang": "en",
-            "value": "Wanted Lab, Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "디자인: 길형진 및 강한빈, 원티드랩; 한글: 본고딕, 장수영 및 강주연, 산돌커뮤니케이션;"
-          },
-          {
-            "lang": "en",
-            "value": "Original Design by Kil Hyung-jin and Kang Hanbin, Wanted Lab, Inc; Hangeul from Source Han Sans by Jang Soo-young and Kang Joo-yeon, Sandoll Communications;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://wantedlab.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
-          },
-          {
-            "lang": "en",
-            "value": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://scripts.sil.org/OFL"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "en",
-            "value": "Wanted Sans"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "en",
-            "value": "ExtraBlack"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright © 2024 Wanted Lab, Inc."
+        },
+        "Font Family": {
+          "en": "Wanted Sans ExtraBlack"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.003;WNTD;WantedSans-ExtraBlack"
+        },
+        "Full Font Name": {
+          "en": "Wanted Sans ExtraBlack"
+        },
+        "Version": {
+          "en": "Version 1.003"
+        },
+        "PostScript Name": {
+          "en": "WantedSans-ExtraBlack"
+        },
+        "Trademark": {
+          "en": "Wanted Sans is a trademark of Wanted Lab, Inc.\nWanted Logo is a trademark of Wanted Lab, Inc.\nSource is a trademark of Adobe in the United States and/or other countries."
+        },
+        "Manufacturer": {
+          "ko": "(주)원티드랩",
+          "en": "Wanted Lab, Inc."
+        },
+        "Designer": {
+          "ko": "디자인: 길형진 및 강한빈, 원티드랩; 한글: 본고딕, 장수영 및 강주연, 산돌커뮤니케이션;",
+          "en": "Original Design by Kil Hyung-jin and Kang Hanbin, Wanted Lab, Inc; Hangeul from Source Han Sans by Jang Soo-young and Kang Joo-yeon, Sandoll Communications;"
+        },
+        "URL Vendor": {
+          "en": "https://wantedlab.com"
+        },
+        "License Description": {
+          "ko": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL",
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        "License Info URL": {
+          "en": "https://scripts.sil.org/OFL"
+        },
+        "Typographic Family": {
+          "en": "Wanted Sans"
+        },
+        "Typographic Subfamily": {
+          "en": "ExtraBlack"
+        }
       }
     }
   ]

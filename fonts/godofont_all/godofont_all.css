@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'godob';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./godob.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'godom';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./godom.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'godomaum';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./godomaum.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'godorounded-l';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./godorounded-l.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'godorounded-r';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./godorounded-r.woff2') format('woff2');
+}
